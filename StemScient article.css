@@ -1,0 +1,159 @@
+
+.hero.is-/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid red;
+}
+primary.is-bold {
+    background-image: linear-gradient(#3b5998,#8ba8e3);
+}
+.hero.is-primary {
+    background-color: #3b5998;
+    color: #fff;
+}
+.hero {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.has-text-centered {
+    text-align: center!important;
+}
+.container {
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.titleis-1{
+    color: #fff;
+    font-family: Moul;
+    font-size: 3rem;
+}
+.subtitle{
+    color: #fff;
+    font-family: Siemreap;
+    font-size: 2rem;
+}
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.table.is-fullwidth {
+    width: 100%;
+}
+.table {
+    background-color: #fff;
+    color: #363636;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.table thead {
+    background-color: transparent;
+}
+@media screen and (max-width: 768px)
+.is-hidden-mobile {
+    display: none!important;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.table tbody {
+    background-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table td:not([align]), table th:not([align]) {
+    text-align: inherit;
+}
+.table td, .table th {
+    border: 1px solid #dbdbdb;
+    border-width: 0 0 1px;
+    padding: .5em .75em;
+    vertical-align: top;
+}
+td:not([align]), th:not([align]) {
+    text-align: inherit;
+}
+table td, table th {
+    vertical-align: top;
+}
+td, th {
+    padding: 0;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+body {
+    font-family: 'Siemreap', sans-serif;
+}

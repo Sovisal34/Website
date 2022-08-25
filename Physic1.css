@@ -1,0 +1,285 @@
+
+.hero.is-/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid red;
+}
+primary.is-bold {
+    background-image: linear-gradient(#3b5998,#8ba8e3);
+}
+.hero.is-primary {
+    background-color: #3b5998;
+    color: #fff;
+}
+.hero {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.has-text-centered {
+    text-align: center!important;
+}
+.container {
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.titleis-1{
+    color: #fff;
+    font-family: Moul;
+    font-size: 3rem;
+}
+
+
+.card-image {
+    display: block;
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.text{
+    text-align: left;
+    font-size: 25px;
+    font-family: 'battambang', cursive;
+    color: black;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  *, ::after, ::before {
+    box-sizing: inherit;
+}
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.panel-block:not(:last-child), .panel-tabs:not(:last-child) {
+    border-bottom: 1px solid #ededed;
+}
+a.panel-block, label.panel-block {
+    cursor: pointer;
+}
+.panel-block {
+    align-items: center;
+    color: #363636;
+    display: flex;
+    justify-content: flex-start;
+    padding: .5em .75em;
+    font-family: Siemreap;
+}
+.table tbody {
+    background-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.table {
+    background-color: #fff;
+    color: #363636;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+.hero.is-/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid red;
+}
+primary.is-bold {
+    background-image: linear-gradient(#3b5998,#8ba8e3);
+}
+.hero.is-primary {
+    background-color: #3b5998;
+    color: #fff;
+}
+.hero {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.has-text-centered {
+    text-align: center!important;
+}
+.container {
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.titleis-1{
+    color: #fff;
+    font-family: Moul;
+    font-size: 3rem;
+}
+.subtitle{
+    color: #fff;
+    font-family: Siemreap;
+    font-size: 2rem;
+}
+.section {
+    padding: 3rem 1.5rem;
+}
+article, aside, figure, footer, header, hgroup, section {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.panel-block:not(:last-child), .panel-tabs:not(:last-child) {
+    border-bottom: 1px solid #ededed;
+}
+a.panel-block, label.panel-block {
+    cursor: pointer;
+}
+.panel-block {
+    align-items: center;
+    color: #363636;
+    display: flex;
+    justify-content: flex-start;
+    padding: .5em .75em;
+    font-family: Siemreap;
+}
+.table tbody {
+    background-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.table {
+    background-color: #fff;
+    color: #363636;
+}
+
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
